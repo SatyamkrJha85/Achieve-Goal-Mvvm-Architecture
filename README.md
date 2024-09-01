@@ -11,7 +11,7 @@ AchieveGoal is a powerful and intuitive task management application designed to 
 - **Customizable Notifications:** Customize notifications according to your preferences.
 - **User-Friendly Interface:** Enjoy a clean and intuitive user interface.
 
-### Screenshot
+### Screenshots
 
 <img src="https://github.com/SatyamkrJha85/SatyamkrJha85-Achieve-Goal-Mvvm-Architecture/assets/111700337/9e0bbec6-e6bc-48f9-b356-f00ccf868dcd" alt="Screenshot" width="700" height="400">
 
